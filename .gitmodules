@@ -1,0 +1,12 @@
+[submodule "Software/Embedded"]
+	path = Software/Embedded
+	url = https://github.com/ZexinLiang/EDispense_Embedded.git
+[submodule "Software/Vision"]
+	path = Software/Vision
+	url = https://github.com/ZexinLiang/EDispense_Vision.git
+[submodule "Hardware/Electronics"]
+	path = Hardware/Electronics
+	url = https://github.com/ZexinLiang/EDispense_Electronics.git
+[submodule "Hardware/Mechanical"]
+	path = Hardware/Mechanical
+	url = https://github.com/ZexinLiang/EDispense_Mechanical.git
